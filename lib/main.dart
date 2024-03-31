@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const NotesAppss());
+  runApp(const NotesAppsss());
 }
 
-class NotesAppss extends StatelessWidget {
-  const NotesAppss({super.key});
+class NotesAppsss extends StatelessWidget {
+  const NotesAppsss({super.key});
 
   @override
   Widget build(BuildContext context) {
